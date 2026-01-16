@@ -14,7 +14,8 @@ In the 'pre-text' phase, the response items were measured on a five-point Agree/
 
 - [Thesis](./thesesfiles/e1/e1_thesis.pdf)
 - Data in [SPSS (.sav) format](./thesesfiles/e1/e1_CleanedThesisData.sav) and [R (.RDS) format](./thesesfiles/e1/e1_CleanedThesisData.RDS)
-- [Qualtrics design](./thesesfiles/e1/e1_qualtricsdesign.pdf)  
+- [Qualtrics design](./thesesfiles/e1/e1_qualtricsdesign.pdf)
+  
 
 
 ## 2. Redemption or Rejection? Legal Protections and Psychological Barriers in Hiring Ex-Offenders
@@ -38,6 +39,7 @@ The experimental vignettes featured the CV of a male candidate applying for a po
 
 ### Associated files
 
-- Thesis
-- Data format
-- Qualtrics design
+- [Thesis](./thesesfiles/e2/e2_thesis.pdf)
+- Data in [SPSS (.sav) format](./thesesfiles/e2/e2_CleanedThesisData.sav) and [R (.RDS) format](./thesesfiles/e2/e2_CleanedThesisData.RDS)
+- [Qualtrics design](./thesesfiles/e2/e2_qualtricsdesign.pdf)
+
