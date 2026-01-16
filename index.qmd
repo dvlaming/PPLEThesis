@@ -1,0 +1,45 @@
+# Overview of the theme {.unnumbered}
+
+Among general principles of law are the ideas of equality and the right to a fair hearing. These ensure that rules will be applied equally and objectively, and that disputes will be resolved without bias to the parties involved. However, those who draft and implement laws and make legal may be subject to biases (conscious or unconscious) based on intersectional factors such as identity, experience, and culture. This impacts a variety of contexts including statutory drafting, sentencing decisions, public policy and hiring practices. This raises the questions of how contradictions between law and psychology can be reconciled and which measures can be used to address (potential) biases in the law.
+
+## General advice
+
+Given the thesis requirements in terms of time frame, word limits, and scope, topics should be narrowly tailored and psycholegal in nature. Projects should clearly identify (1) a specific case study/demonstrably impacted group that is (2) impacted by a law/policy/practice, which (3) directly connects to psychological theory.
+
+Note that projects that have encountered considerable difficulty have (1) examined generalized groups, (2) failed to measure a law’s impact, or (3) involved a legal decision/implementation that is based on more factors than can be coherently addressed within the scope of the thesis. In these cases, only weak and superficial analysis has been achieved, with poor grades as a result.
+
+## Methods
+
+### Psychology majors 
+
+Projects must primarily involve the analysis of quantitative data. Data can either be gathered as part of an original experiment (which will necessitate ethical review) or can be obtained from appropriate existing sources. At a minimum, projects will have demonstrable implications for the legal field, while outstanding projects will also integrate legal research methods (e.g., case analysis, doctrinal analysis). Psychology majors wishing to incorporate analysis of qualitative data as a secondary method are welcome to contact us but should be aware that we do not have methodological expertise in this area.
+
+### Law majors 
+
+Projects must involve traditional, sociolegal, and/or empirical legal research methods. Law students can include mixed-methods approaches, such as qualitative interviewing, quantitative surveys, discourse/textual analysis, statistical analysis, and literature review. However, if civiel effect is sought, doctrinal analysis (traditional) must be included in approximately half of the thesis.
+
+## Selected past themes/topics
+
+- How does biased courtroom decisionmaking (from juries and/or judges) influence outcomes? This has been explored through analyzing psychological influences on witness credibility, verdicts, sentencing, damage awards.
+
+- How do ambiguities in written laws allow for biases in application? How does a law that appears to be neutral results in different impacts for specific communities?
+
+- In practice, how effective are laws designed to protect vulnerable communities?
+
+- How do laws reflect – or perpetuate – inequality when it comes to fundamental rights? This has been explored by examining differential treatment when it comes to parental rights (same-sex couples; single parents), founding a family (fertility treatments; surrogacy), laws based on sex/gender (governmental benefits; citizenship, asylum).
+
+- What are societal attitudes towards implementation of particular laws? How have specific laws increased/decreased confidence in the judiciary?
+
+### Civiel effect
+
+Law students seeking civiel effect often ask about the types of questions they can explore. In recent years, they have done so with the following questions:
+
+- How does the use of facial recognition technology by the Dutch police interact with the fundamental rights to freedom of expression and assembly in the context of protests?
+
+- How can intergroup relations explain the differential treatment of farmers and Extinction Rebellion protesters by law enforcement, when enforcing Dutch Law on right to protest?
+
+- How have entrenched societal norms influenced the divergence of Curaçaoan law from human rights standards concerning same-sex adoption?
+
+- Should California eliminate the inclusion of juvenile adjudications in the three strikes law considering the insights from developmental psychology that form the foundation of the juvenile justice system?
+
+More detailed information (and data) on selected theses is available in the following pages. While we are experienced in supervising projects related to Bias and Objectivity, we also welcome enquiries from students wishing to apply insights from Law and Psychology outside of this theme. For questions, please contact us ([Madeline Hendricks](mailto:m.j.hendricks@uva.nl) and [David Fleming](mailto:d.fleming@uva.nl)) by email. 

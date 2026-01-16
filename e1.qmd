@@ -1,0 +1,43 @@
+# Example projects {.unnumbered} 
+
+## 1. The Right to Protest in the Panoptic Reality: A Psycho-Legal Analysis of the Use of Facial Recognition Technology by the Dutch Police in the Context of Protests
+
+The study investigated whether awareness of the use of Facial Recognition Technology (FRT) by the Dutch police would affect perceptions of rights to freedom of expression and assembly. The main research question was: '_How does the use of facial recognition technology by the Dutch police interact with the fundamental rights to freedom of expression and assembly in the context of protests?_' Furthermore, a specific subquestion was developed which relates to the collected data: '_How does awareness of the use of FRT by the Dutch police affect individual attitudes towards exercising freedom of expression and assembly?_' The main hypothesis was that '[a]wareness of the use of FRT does affect attitudes towards exercising freedom[s] of expression [and] assembly.'
+
+### Rough summary of the main measurement items and procedure
+
+Participants completed a Qualtrics survey in which they were initially asked to rate their agreement to four Likert scale questions relating to how _capable_, _safe_ and _willing_ they feel in expressing their thoughts and opinions on matters which they find important, and on their _likelihood_ of doing so. These terms were also used for questions relating to the act of attending a protest (e.g., '[i]n general, I would be willing to assemble [e.g. participate in protests] in the Netherlands in support of matters that are important to me'), for eight questions in total. After completing these, participants were shown two informational passages which described the extent of video surveillance coverage in the Netherlands and the use of FRT by the authorities. Afterwards, they again completed eight questions, as before covering the themes of _capability_, _likelihood_, _safety_ and _willingness_, directed towards expression of opinions and physical protest attendance. Here, however, the question statements were modified to invite participants to think about the impact that the information which they had just read had on their views of their own freedom of assembly and expression (e.g., '[k]nowing when and how FRT can be used by the Dutch police has a ... effect on my willingness to assemble [e.g. participate in protests] in the Netherlands in support of matters that are important to me.') 
+
+In the 'pre-text' phase, the response items were measured on a five-point Agree/Disagree scale with a neutral "Neither agree nor disagree" midpoint (3), where scores greater than 3 indicate agreement; in the "post-text" phase, the five points reflected the participant's report of how their prior ratings had changed after reading the presented information, with a midpoint response indicating no effect, and values higher and lower than this reflecting positive and negative effects, respectively. 
+
+### Associated files
+
+- [Thesis](./thesesfiles/e1/e1_thesis.pdf)
+- Data in [SPSS (.sav) format](./thesesfiles/e1/e1_CleanedThesisData.sav) and [R (.RDS) format](./thesesfiles/e1/e1_CleanedThesisData.RDS)
+- [Qualtrics design](./thesesfiles/e1/e1_qualtricsdesign.pdf)  
+
+
+## 2. Redemption or Rejection? Legal Protections and Psychological Barriers in Hiring Ex-Offenders
+
+The study investigated whether an ex-convict's crime and the manner in which they disclose it on their CV affect their likelihood of being hired. Study participants were asked to rate the likelihood of their hiring a fictional ex-convict after being presented with a CV which contained information about the crime committed (simple assault vs. tax evasion), and which either gave a basic, factual statement of the crime ('plain' narrative) or a statement which included discussion of the steps taken on the part of the applicant to rehabilitate themselves post-detention ('redemption' narrative). The main research question was: '_How do an ex-offender’s crime type and disclosure strategy influence hiring likelihood, and what does this reveal about the effectiveness of rehabilitation protections, using Germany as a legal reference case?_' The principal hypotheses were:
+
+1. Those previously convicted of tax evasion would be rated as more likely to be hired than those convicted of assault.
+2. This effect would flow indirectly through the mediator of perceived applicant trustworthiness.
+3. The indirect effect would be moderated by disclosure strategy, such that a "redemption" narrative would have a larger impact on trustworthiness when the candidate had previously committed tax evasion.  
+
+### Rough summary of the main measurement items and procedure
+
+Participants entered a Qualtrics survey in which they were randomly assigned to one of four experimental conditions:
+
+1. Tax evasion with 'plain' narrative
+2. Tax evasion with 'redemption' narrative
+3. Simple assault with 'plain' narrative
+4. Simple assault with 'redemption' narrative
+
+The experimental vignettes featured the CV of a male candidate applying for a position as bus driver, where all information was held constant across conditions except for the crime and narrative information. Participants rated their agreement with questions relating to the trustworthiness of the candidate on a six item scale (with one reverse-coded item) running from 0 (strongly disagree) to 100 (strongly agree) and subsequently rated how likely they would be to hire the candidate ('[b]ased on the application you read, how likely would you be to hire this candidate for a bus driver position?'), also on a scale of 0 (extremely unlikely) to 100 (extremely likely). Two items relating to general belief in redeemability of offenders and a bipolar measure of of political orientation (0 = very left wing, 100 = very right wing) were collected for use as model covariates, as were the participants' age and gender. 
+
+### Associated files
+
+- Thesis
+- Data format
+- Qualtrics design
