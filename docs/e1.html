@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -141,6 +170,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#rough-summary-of-the-main-measurement-items-and-procedure-1" id="toc-rough-summary-of-the-main-measurement-items-and-procedure-1" class="nav-link" data-scroll-target="#rough-summary-of-the-main-measurement-items-and-procedure-1">Rough summary of the main measurement items and procedure</a></li>
   <li><a href="#associated-files-1" id="toc-associated-files-1" class="nav-link" data-scroll-target="#associated-files-1">Associated files</a></li>
   </ul></li>
+  <li><a href="#the-cost-of-silence-the-right-to-silence-in-theory-and-juror-bias-in-practice" id="toc-the-cost-of-silence-the-right-to-silence-in-theory-and-juror-bias-in-practice" class="nav-link" data-scroll-target="#the-cost-of-silence-the-right-to-silence-in-theory-and-juror-bias-in-practice">3. The Cost of Silence: The Right to Silence in Theory and Juror Bias in Practice</a>
+  <ul class="collapse">
+  <li><a href="#rough-summary-of-the-main-measurement-items-and-procedure-2" id="toc-rough-summary-of-the-main-measurement-items-and-procedure-2" class="nav-link" data-scroll-target="#rough-summary-of-the-main-measurement-items-and-procedure-2">Rough summary of the main measurement items and procedure</a></li>
+  <li><a href="#associated-files-2" id="toc-associated-files-2" class="nav-link" data-scroll-target="#associated-files-2">Associated files</a></li>
+  <li><a href="#reference" id="toc-reference" class="nav-link" data-scroll-target="#reference">Reference</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -168,7 +203,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="the-right-to-protest-in-the-panoptic-reality-a-psycho-legal-analysis-of-the-use-of-facial-recognition-technology-by-the-dutch-police-in-the-context-of-protests" class="level2">
 <h2 class="anchored" data-anchor-id="the-right-to-protest-in-the-panoptic-reality-a-psycho-legal-analysis-of-the-use-of-facial-recognition-technology-by-the-dutch-police-in-the-context-of-protests">1. The Right to Protest in the Panoptic Reality: A Psycho-Legal Analysis of the Use of Facial Recognition Technology by the Dutch Police in the Context of Protests</h2>
-<p>The study investigated whether awareness of the use of Facial Recognition Technology (FRT) by the Dutch police would affect perceptions of rights to freedom of expression and assembly. The main research question was: ‘<em>How does the use of facial recognition technology by the Dutch police interact with the fundamental rights to freedom of expression and assembly in the context of protests?</em>’ Furthermore, a specific subquestion was developed which relates to the collected data: ‘<em>How does awareness of the use of FRT by the Dutch police affect individual attitudes towards exercising freedom of expression and assembly?</em>’ The main hypothesis was that ‘[a]wareness of the use of FRT does affect attitudes towards exercising freedom[s] of expression [and] assembly.’</p>
+<p>The study investigated whether awareness of the use of Facial Recognition Technology (FRT) by the Dutch police would affect perceptions of rights to freedom of expression and assembly.</p>
+<p>The main research question was: ‘<em>How does the use of facial recognition technology by the Dutch police interact with the fundamental rights to freedom of expression and assembly in the context of protests?</em>’ Furthermore, a specific subquestion was developed which relates to the collected data: ‘<em>How does awareness of the use of FRT by the Dutch police affect individual attitudes towards exercising freedom of expression and assembly?</em>’ The main hypothesis was that ‘[a]wareness of the use of FRT does affect attitudes towards exercising freedom[s] of expression [and] assembly.’</p>
 <section id="rough-summary-of-the-main-measurement-items-and-procedure" class="level3">
 <h3 class="anchored" data-anchor-id="rough-summary-of-the-main-measurement-items-and-procedure">Rough summary of the main measurement items and procedure</h3>
 <p>Participants completed a Qualtrics survey in which they were initially asked to rate their agreement to four Likert scale questions relating to how <em>capable</em>, <em>safe</em> and <em>willing</em> they feel in expressing their thoughts and opinions on matters which they find important, and on their <em>likelihood</em> of doing so. These terms were also used for questions relating to the act of attending a protest (e.g., ‘[i]n general, I would be willing to assemble [e.g.&nbsp;participate in protests] in the Netherlands in support of matters that are important to me’), for eight questions in total. After completing these, participants were shown two informational passages which described the extent of video surveillance coverage in the Netherlands and the use of FRT by the authorities. Afterwards, they again completed eight questions, as before covering the themes of <em>capability</em>, <em>likelihood</em>, <em>safety</em> and <em>willingness</em>, directed towards expression of opinions and physical protest attendance. Here, however, the question statements were modified to invite participants to think about the impact that the information which they had just read had on their views of their own freedom of assembly and expression (e.g., ‘[k]nowing when and how FRT can be used by the Dutch police has a … effect on my willingness to assemble [e.g.&nbsp;participate in protests] in the Netherlands in support of matters that are important to me.’)</p>
@@ -185,7 +221,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="redemption-or-rejection-legal-protections-and-psychological-barriers-in-hiring-ex-offenders" class="level2">
 <h2 class="anchored" data-anchor-id="redemption-or-rejection-legal-protections-and-psychological-barriers-in-hiring-ex-offenders">2. Redemption or Rejection? Legal Protections and Psychological Barriers in Hiring Ex-Offenders</h2>
-<p>The study investigated whether an ex-convict’s crime and the manner in which they disclose it on their CV affect their likelihood of being hired. Study participants were asked to rate the likelihood of their hiring a fictional ex-convict after being presented with a CV which contained information about the crime committed (simple assault vs.&nbsp;tax evasion), and which either gave a basic, factual statement of the crime (‘plain’ narrative) or a statement which included discussion of the steps taken on the part of the applicant to rehabilitate themselves post-detention (‘redemption’ narrative). The main research question was: ‘<em>How do an ex-offender’s crime type and disclosure strategy influence hiring likelihood, and what does this reveal about the effectiveness of rehabilitation protections, using Germany as a legal reference case?</em>’ The principal hypotheses were:</p>
+<p>The study investigated whether an ex-convict’s crime and the manner in which they disclose it on their CV affect their likelihood of being hired. Study participants were asked to rate the likelihood of their hiring a fictional ex-convict after being presented with a CV which contained information about the crime committed (simple assault vs.&nbsp;tax evasion), and which either gave a basic, factual statement of the crime (‘plain’ narrative) or a statement which included discussion of the steps taken on the part of the applicant to rehabilitate themselves post-detention (‘redemption’ narrative).</p>
+<p>The main research question was: ‘<em>How do an ex-offender’s crime type and disclosure strategy influence hiring likelihood, and what does this reveal about the effectiveness of rehabilitation protections, using Germany as a legal reference case?</em>’ The principal hypotheses were:</p>
 <ol type="1">
 <li>Those previously convicted of tax evasion would be rated as more likely to be hired than those convicted of assault.</li>
 <li>This effect would flow indirectly through the mediator of perceived applicant trustworthiness.</li>
@@ -209,6 +246,39 @@ ul.task-list li input[type="checkbox"] {
 <li>Data in <a href="./thesesfiles/e2/e2_CleanedThesisData.sav">SPSS (.sav) format</a> and <a href="./thesesfiles/e2/e2_CleanedThesisData.RDS">R (.RDS) format</a></li>
 <li><a href="./thesesfiles/e2/e2_qualtricsdesign.pdf">Qualtrics design</a></li>
 </ul>
+</section>
+</section>
+<section id="the-cost-of-silence-the-right-to-silence-in-theory-and-juror-bias-in-practice" class="level2">
+<h2 class="anchored" data-anchor-id="the-cost-of-silence-the-right-to-silence-in-theory-and-juror-bias-in-practice">3. The Cost of Silence: The Right to Silence in Theory and Juror Bias in Practice</h2>
+<p>This project focused on how invoking the right to silence and refusing to answer questions in the courtroom can influence the verdict issued to a defendant. Participants were randomly assigned to read a mock case transcript featuring the cross examination of a female or male defendant who responded to a tangential yet potentially incriminating question with either a denial or an invocation of their right to silence.</p>
+<p>The main research question was: ‘<em>How do a defendant’s invocation of the right to silence and their gender influence juror judgments of guilt and trustworthiness, despite the legal system’s formal efforts to safeguard this right?</em>’ The principal hypotheses were:</p>
+<ol type="1">
+<li>Invoking the right to silence will increase virtual jurors’ perception of guilt and reduce their judgements of the defendant’s trustworthiness.</li>
+<li>Female defendants will be judged as less guilty and more trustworthy than male defendants.</li>
+<li>The effects of invoking the right to silence as described in <span class="math inline">\(H_1\)</span> will be more pronounced for male defendants.</li>
+</ol>
+<section id="rough-summary-of-the-main-measurement-items-and-procedure-2" class="level3">
+<h3 class="anchored" data-anchor-id="rough-summary-of-the-main-measurement-items-and-procedure-2">Rough summary of the main measurement items and procedure</h3>
+<p>The study took place in Qualtrics and participants were randomly assigned to one of four experimental conditions:</p>
+<ol type="1">
+<li>Female defendant issuing statement of denial in response to the tangential question</li>
+<li>Female defendant invoking the right to silence</li>
+<li>Male defendant issuing statement of denial</li>
+<li>Male defendant invoking the right to silence</li>
+</ol>
+<p>The experimental texts featured a mock-up of an except from a cross-examination where the defendant had been accused of embezzlement. All variants ended with the defendant being directly asked by the prosecutor if they had embezzled funds, which the defendant firmly denied. After reading the transcripts, participants rated the guilt of the defendant on a scale from 0 (not at all guilty) to 100 (absolutely guilty), and indicated their perceptions of trustworthiness using the “Trustworthiness” subscale of the Witness Credibility Scale (Brodsky et al., 2010).</p>
+</section>
+<section id="associated-files-2" class="level3">
+<h3 class="anchored" data-anchor-id="associated-files-2">Associated files</h3>
+<ul>
+<li><a href="./thesesfiles/e3/e3_thesis.pdf">Thesis</a></li>
+<li>Data in <a href="./thesesfiles/e3/e3_CleanedThesisData.sav">SPSS (.sav) format</a> and <a href="./thesesfiles/e3/e3_CleanedThesisData.RDS">R (.RDS) format</a></li>
+<li><a href="./thesesfiles/e3/e3_qualtricsdesign.pdf">Qualtrics design</a></li>
+</ul>
+</section>
+<section id="reference" class="level3">
+<h3 class="anchored" data-anchor-id="reference">Reference</h3>
+<p>Brodsky, S. L., Griffin, M. P., &amp; Cramer, R. J. (2010). The Witness Credibility Scale: An outcome measure for expert witness research. Behavioral Sciences &amp; the Law, 28(6), 892–907. https://doi.org/10.1002/bsl.917</p>
 
 
 </section>
