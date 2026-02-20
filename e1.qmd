@@ -2,6 +2,31 @@
 
 ## 1. The Right to Protest in the Panoptic Reality: A Psycho-Legal Analysis of the Use of Facial Recognition Technology by the Dutch Police in the Context of Protests
 
+### Abstract
+
+<i>As facial recognition technology (FRT) proliferates worldwide, a critical question emerges: can
+surveillance methods designed to maintain public order and safety inadvertently undermine the
+very fundamental freedoms they seek to safeguard? This psycho-legal analysis investigates how
+the use of FRT by the Dutch police interacts with the exercise of the core freedoms of expression
+and peaceful assembly in the context of public protests. Through mixed-method research, the
+study first conducts doctrinal analyses of normative legal conditions and their evolving judicial
+interpretations across different levels of governance, ranging from international to national. The
+legal reviews reveal a troubling reality: there are currently no legally binding, event-specific
+restrictions imposed on retrospective identification of protesters, creating a regulatory grey zone
+where accountability remains diffuse. Complementing the legal component, an online vignettebased
+survey among young adults reveals psychological dimensions and implications of such
+surveillance used in the Netherlands. After becoming aware of FRT deployment, respondents
+consistently reported significant deterrence on specific variables relating to both expression and
+assembly, demonstrating a manifestation of the classic “chilling effect”. Against the somewhat
+dystopian socio-philosophical backdrop of Foucault’s disciplinary notion of the Panopticon, the
+perceived visibility through FRT surveillance potentially constraining behaviour is particularly
+concerning. The findings illuminate a paradox at the heart of modern democracy: technologies
+utilised by law enforcement authorities may erode crucial participatory foundations. This thesis
+offers policy recommendations, such as harmonised statutory safeguards, ex-ante rights impact
+assessments, and independent oversight, aiming to protect the right to protest in the digital age.</i>
+
+<br>
+
 The study investigated whether awareness of the use of Facial Recognition Technology (FRT) by the Dutch police would affect perceptions of rights to freedom of expression and assembly. 
 
 The main research question was: '_How does the use of facial recognition technology by the Dutch police interact with the fundamental rights to freedom of expression and assembly in the context of protests?_' Furthermore, a specific subquestion was developed which relates to the collected data: '_How does awareness of the use of FRT by the Dutch police affect individual attitudes towards exercising freedom of expression and assembly?_' The main hypothesis was that '[a]wareness of the use of FRT does affect attitudes towards exercising freedom[s] of expression [and] assembly.'
@@ -21,6 +46,12 @@ In the 'pre-text' phase, the response items were measured on a five-point Agree/
 
 
 ## 2. Redemption or Rejection? Legal Protections and Psychological Barriers in Hiring Ex-Offenders
+
+### Abstract
+
+<i>Despite robust legal frameworks in Germany and across the European Union designed to support the reintegration of formerly incarcerated individuals, hiring discrimination remains a persistent challenge. This thesis investigates whether an ex-offender’s crime type (mala in se vs. mala prohibita) and disclosure strategy (plain vs. redemption narrative) influence hiring likelihood (HL), and whether employers’ perceived trustworthiness mediates these effects. Using a 2×2 between-subjects experimental design, participants (N = 192) reviewed fictional job applications for bus driver positions and rated the applicant’s trustworthiness and HL. Results revealed that disclosure strategy significantly influenced perceived trust, with applicants using a redemption narrative rated as more trustworthy than those using plain disclosure. Crime type had no significant effect on trust or HL. While trust strongly predicted HL, it did not mediate the relationship between crime type and hiring outcomes, nor did disclosure strategy moderate this effect. These findings suggest that narrative framing may globally improve trust perceptions, while moral distinctions between offense types may shape hiring decisions through other mechanisms. In parallel, a sociolegal doctrinal analysis of German rehabilitation law highlights gaps in protection against hiring discrimination, particularly the absence of criminal history as a protected ground. This interdisciplinary approach reveals a disconnect between formal legal norms and real-world judgment, offering insight into how stigma and trust function in the hiring process. Practical implications are discussed for employers; for ex-offenders, who may improve outcomes by emphasizing rehabilitation; and for policymakers, who must consider making existing legal protections salient.</i>
+
+<br>
 
 The study investigated whether an ex-convict's crime and the manner in which they disclose it on their CV affect their likelihood of being hired. Study participants were asked to rate the likelihood of their hiring a fictional ex-convict after being presented with a CV which contained information about the crime committed (simple assault vs. tax evasion), and which either gave a basic, factual statement of the crime ('plain' narrative) or a statement which included discussion of the steps taken on the part of the applicant to rehabilitate themselves post-detention ('redemption' narrative). 
 
@@ -50,6 +81,13 @@ The experimental vignettes featured the CV of a male candidate applying for a po
 
 ## 3. The Cost of Silence: The Right to Silence in Theory and Juror Bias in Practice
 
+### Abstract
+
+<i>The Fifth Amendment provides a critical legal safeguard for criminal defendants, including the right to remain silent during police interrogations and courtroom proceedings. A fundamental protection is that no guilt can be inferred from a defendant’s silence. Despite its legal importance, the consequences of invoking this right before a jury remain underexplored. This thesis integrates legal analysis and psychological theories of decision-making to examine how a defendant’s silence and gender influence jury judgments. A doctrinal analysis of U.S. case law explained the importance and scope of the right to silence, and an analysis of jury instructions highlighted efforts to mitigate bias. These legal insights informed the construction of a realistic and ecologically valid experimental scenario. Using a 2x2 between-subjects experimental design, participants (N = 357) read a mock case transcript in which the defendant was randomly assigned to be either male or female and either invoked their right to silence in response to a tangential yet potentially incriminating question or denied involvement. Results confirmed the presence of silence bias: defendants who invoked their right to remain silent were judged as more guilty and less trustworthy than those who denied the accusation. No gender bias or interaction effects were found. The findings underscore a troubling disconnect between the theoretical promise of the right to silence and its limited protection in courtroom practice. Recommendations for legal reform are discussed to help uphold the rule of law and protect fair trial rights.</i>
+
+
+<br>
+
 This project focused on how invoking the right to silence and refusing to answer questions in the courtroom can influence the verdict issued to a defendant. Participants were randomly assigned to read a mock case transcript featuring the cross examination of a female or male defendant who responded to a tangential yet potentially incriminating question with either a denial or an invocation of their right to silence. 
 
 The main research question was: '_How do a defendant's invocation of the right to silence and their gender influence juror judgments of guilt and trustworthiness, despite the legal system’s formal efforts to safeguard this right?_' The principal hypotheses were:
@@ -78,3 +116,32 @@ The experimental texts featured a mock-up of an except from a cross-examination 
 ### Reference
 
 Brodsky, S. L., Griffin, M. P., & Cramer, R. J. (2010). The Witness Credibility Scale: An outcome measure for expert witness research. Behavioral Sciences & the Law, 28(6), 892–907. <https://doi.org/10.1002/bsl.917>
+
+## 4. Breaking the Silence: The Unspoken Truth of (Under)Reporting Discrimination Cases based on Sexual Orientation in the Netherlands
+
+### Abstract
+
+<i>Underreporting of discrimination cases and hate crimes based on sexual orientation is an evergrowing
+phenomenon in the Netherlands. Previous research has been conducted on general
+reasons for the underreporting of crimes and for police attitudes towards the queer community.
+Research, however, is missing on how queer victims perceive the enforcement of legislation
+by the police and how this impacts their reporting behaviour in discrimination cases.
+Furthermore, no research has been found evaluating alternative reporting agencies in the
+Netherlands and their function based on queer victims’ use. This thesis, therefore, aims at filling
+these gaps by answering the research question: How is queer victims’ propensity to report a
+discrimination case or a hate crime impacted by their perception of the enforcement of the legal
+framework around these crimes in the Netherlands by the police or by alternative reporting
+bodies? Through an interdisciplinary approach integrating law and psychology this research
+question is analysed via a mixed-method approach of doctrinal analysis and thematic analysis
+of semi-structured interviews. The thesis finds that queer victims in the Netherlands perceive
+the police as not acting fairly and respectfully in many situations involving queer victims and
+as having different values and interests at heart from the ones of the queer community. This
+results in non-reporting behaviour as the police is perceived as lacking legitimacy. On the
+contrary, perceptions of alternative reporting strategies are mainly positive, even though they
+lack visibility and, consequently, efficacy in their current way of functioning.</i>
+
+<br>
+
+### Associated files
+
+- [Thesis](./thesesfiles/e4/e4_thesis.pdf)
