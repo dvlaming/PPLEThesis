@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,6 +50,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./faq.html" rel="next">
 <link href="./index.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -150,6 +171,12 @@ window.Quarto = {
  <span class="menu-text">Example projects</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAQs</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -177,7 +204,6 @@ window.Quarto = {
   <li><a href="#abstract-2" id="toc-abstract-2" class="nav-link" data-scroll-target="#abstract-2">Abstract</a></li>
   <li><a href="#rough-summary-of-the-main-measurement-items-and-procedure-2" id="toc-rough-summary-of-the-main-measurement-items-and-procedure-2" class="nav-link" data-scroll-target="#rough-summary-of-the-main-measurement-items-and-procedure-2">Rough summary of the main measurement items and procedure</a></li>
   <li><a href="#associated-files-2" id="toc-associated-files-2" class="nav-link" data-scroll-target="#associated-files-2">Associated files</a></li>
-  <li><a href="#reference" id="toc-reference" class="nav-link" data-scroll-target="#reference">Reference</a></li>
   </ul></li>
   <li><a href="#breaking-the-silence-the-unspoken-truth-of-underreporting-discrimination-cases-based-on-sexual-orientation-in-the-netherlands" id="toc-breaking-the-silence-the-unspoken-truth-of-underreporting-discrimination-cases-based-on-sexual-orientation-in-the-netherlands" class="nav-link" data-scroll-target="#breaking-the-silence-the-unspoken-truth-of-underreporting-discrimination-cases-based-on-sexual-orientation-in-the-netherlands">4. Breaking the Silence: The Unspoken Truth of (Under)Reporting Discrimination Cases based on Sexual Orientation in the Netherlands</a>
   <ul class="collapse">
@@ -289,7 +315,7 @@ window.Quarto = {
 <li>Male defendant issuing statement of denial</li>
 <li>Male defendant invoking the right to silence</li>
 </ol>
-<p>The experimental texts featured a mock-up of an except from a cross-examination where the defendant had been accused of embezzlement. All variants ended with the defendant being directly asked by the prosecutor if they had embezzled funds, which the defendant firmly denied. After reading the transcripts, participants rated the guilt of the defendant on a scale from 0 (not at all guilty) to 100 (absolutely guilty), and indicated their perceptions of trustworthiness using the “Trustworthiness” subscale of the Witness Credibility Scale (Brodsky et al., 2010).</p>
+<p>The experimental texts featured a mock-up of an except from a cross-examination where the defendant had been accused of embezzlement. All variants ended with the defendant being directly asked by the prosecutor if they had embezzled funds, which the defendant firmly denied. After reading the transcripts, participants rated the guilt of the defendant on a scale from 0 (not at all guilty) to 100 (absolutely guilty), and indicated their perceptions of trustworthiness using the “Trustworthiness” subscale of the Witness Credibility Scale <span class="citation" data-cites="brodskyetal2010">(<a href="#ref-brodskyetal2010" role="doc-biblioref">Brodsky et al., 2010</a>)</span>.</p>
 </section>
 <section id="associated-files-2" class="level3">
 <h3 class="anchored" data-anchor-id="associated-files-2">Associated files</h3>
@@ -298,10 +324,6 @@ window.Quarto = {
 <li>Data in <a href="./thesesfiles/e3/e3_CleanedThesisData.sav">SPSS (.sav) format</a> and <a href="./thesesfiles/e3/e3_CleanedThesisData.RDS">R (.RDS) format</a></li>
 <li><a href="./thesesfiles/e3/e3_qualtricsdesign.pdf">Qualtrics design</a></li>
 </ul>
-</section>
-<section id="reference" class="level3">
-<h3 class="anchored" data-anchor-id="reference">Reference</h3>
-<p>Brodsky, S. L., Griffin, M. P., &amp; Cramer, R. J. (2010). The Witness Credibility Scale: An outcome measure for expert witness research. Behavioral Sciences &amp; the Law, 28(6), 892–907. <a href="https://doi.org/10.1002/bsl.917" class="uri">https://doi.org/10.1002/bsl.917</a></p>
 </section>
 </section>
 <section id="breaking-the-silence-the-unspoken-truth-of-underreporting-discrimination-cases-based-on-sexual-orientation-in-the-netherlands" class="level2">
@@ -318,6 +340,11 @@ window.Quarto = {
 </ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-brodskyetal2010" class="csl-entry" role="listitem">
+Brodsky, S. L., Griffin, M. P., &amp; Cramer, R. J. (2010). The witness credibility scale: An outcome measure for expert witness research. <em>Behavioral Sciences &amp; the Law</em>, <em>28</em>(6), 892–907. https://doi.org/<a href="https://doi.org/10.1002/bsl.917">https://doi.org/10.1002/bsl.917</a>
+</div>
+</div>
 </section>
 </section>
 
@@ -729,6 +756,9 @@ window.Quarto = {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./faq.html" class="pagination-link" aria-label="FAQs">
+        <span class="nav-page-text">FAQs</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->

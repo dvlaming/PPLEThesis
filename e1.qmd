@@ -105,7 +105,7 @@ The study took place in Qualtrics and participants were randomly assigned to one
 3. Male defendant issuing statement of denial
 4. Male defendant invoking the right to silence
 
-The experimental texts featured a mock-up of an except from a cross-examination where the defendant had been accused of embezzlement. All variants ended with the defendant being directly asked by the prosecutor if they had embezzled funds, which the defendant firmly denied. After reading the transcripts, participants rated the guilt of the defendant on a scale from 0 (not at all guilty) to 100 (absolutely guilty), and indicated their perceptions of trustworthiness using the "Trustworthiness" subscale of the Witness Credibility Scale (Brodsky et al., 2010).
+The experimental texts featured a mock-up of an except from a cross-examination where the defendant had been accused of embezzlement. All variants ended with the defendant being directly asked by the prosecutor if they had embezzled funds, which the defendant firmly denied. After reading the transcripts, participants rated the guilt of the defendant on a scale from 0 (not at all guilty) to 100 (absolutely guilty), and indicated their perceptions of trustworthiness using the "Trustworthiness" subscale of the Witness Credibility Scale [@brodskyetal2010].
 
 ### Associated files
 
@@ -113,9 +113,6 @@ The experimental texts featured a mock-up of an except from a cross-examination 
 - Data in [SPSS (.sav) format](./thesesfiles/e3/e3_CleanedThesisData.sav) and [R (.RDS) format](./thesesfiles/e3/e3_CleanedThesisData.RDS)
 - [Qualtrics design](./thesesfiles/e3/e3_qualtricsdesign.pdf)
 
-### Reference
-
-Brodsky, S. L., Griffin, M. P., & Cramer, R. J. (2010). The Witness Credibility Scale: An outcome measure for expert witness research. Behavioral Sciences & the Law, 28(6), 892–907. <https://doi.org/10.1002/bsl.917>
 
 ## 4. Breaking the Silence: The Unspoken Truth of (Under)Reporting Discrimination Cases based on Sexual Orientation in the Netherlands
 

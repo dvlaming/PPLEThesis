@@ -1,0 +1,45 @@
+# FAQs {.unnumbered}
+
+## General
+
+### 1. When will I receive the class schedule?  
+This should appear on your agenda on [rooster](https://rooster.uva.nl/schedule) very soon.
+
+### 2. How closely to I have to stick to the group's 'headline' theme?
+In principle, not very closely. Our main concern is that your thesis is sufficiently centered on the interplay of Law and Psychology and we do not insist that you work on something related to Bias and Objectivity.
+
+## For Psychology majors
+
+### 1. Do I need to collect new data, or can I use existing data for my project?
+
+The choice is yours, but you must carefully consider the costs and benefits of both: 
+
+#### New data
+
+- <span style="color: green"> You can create a focused and well-controlled study with materials/stimuli tailored to your specific question(s).</span>  
+- <span style="color: maroon"> You need to wait for ethical approval before you can begin data collection (can take ~1-2 weeks after application).</span>
+- <span style="color: maroon">You need to wait until the data is fully collected before you can conduct your analysis and finish off your thesis.</span>
+
+#### Existing/secondary data
+
+- <span style="color: green">You can begin analysis as soon as you find a suitable source and approach: no need to wait for ethical review (unless applying for access to non-publicly accessible/data which contains sensitive information), nor for completion of data collection.</span>  
+- <span style="color: maroon">Finding data suitable for your project may be tricky; the existing data might either be too broad or too narrow for the purpose of crafting measures related to your concepts of interest.</span>
+- <span style="color: maroon">Very careful consideration is required regarding how the selected variables will relate to each other (e.g., what is the direction of causality? Are predicted effects direct or indirect?) and whether nuisance variables should be controlled for (confounders) or not (colliders).</span>    
+ 
+### 2. Do I *need* to include a Doctrinal Analysis (or some other form of Legal Analysis)? 
+
+<b>No.</b> You can earn a good grade without this as long as your project has demonstrable relevance for the formulation/application/practice/etc. of Law. That said, outstanding methodological interdisciplinarity (i.e., effectively combining research methods from both Law and Psychology) can make the difference between a 'Good' thesis and an 'Excellent' one.
+
+### 3. Can I collect data from members of sensitive/special populations (e.g., children, patients)?
+
+<b>No.</b> Working with these populations requires an enhanced ethics review and screening of the involved researchers, which would simply take too long to complete. If you would like to collect new data from human participants, these must be aged at least 18 years old and recruited through 'standard' channels (e.g., word-of-mouth, posters, social media posts etc.)
+
+
+### 4. Can I include qualitative analysis in my thesis?
+
+Only as a secondary method: your primary methods <b>must be quantitative</b>. (Note also that your major supervisor (David) has practically no knowledge of qualitative analyses and would not be able to offer much advice on the best way to conduct these.)  
+
+ 
+
+ 
+
