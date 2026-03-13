@@ -114,6 +114,12 @@ The experimental texts featured a mock-up of an except from a cross-examination 
 - [Qualtrics design](./thesesfiles/e3/e3_qualtricsdesign.pdf)
 
 
+### Reference
+
+::: {#refs}
+:::
+
+
 ## 4. Breaking the Silence: The Unspoken Truth of (Under)Reporting Discrimination Cases based on Sexual Orientation in the Netherlands
 
 ### Abstract

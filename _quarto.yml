@@ -7,6 +7,11 @@ book:
   chapters:
     - index.qmd
     - e1.qmd
+    - faq.qmd
+    
+bibliography: pplethesis.bib
+csl: apa-annotated-bibliography.csl
+
 
 format:
   html:
